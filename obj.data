@@ -1,0 +1,1 @@
+classes= 2'\n'train = /home/ubuntu/Notebooks/darknet/data/train.txt'\n'valid = /home/ubuntu/Notebooks/darknet/data/test.txt'\n'names = /home/ubuntu/Notebooks/darknet/cfg/obj.names'\n'backup = backup
